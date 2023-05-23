@@ -1,0 +1,9 @@
+body{
+    background-color: seashell;
+}
+.tank{
+    border-radius: 20px;
+    margin-left: 400px;;
+    margin-top: 50px;
+    border: 1px solid white;
+}
